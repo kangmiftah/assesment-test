@@ -13,5 +13,5 @@ export function PageProvider({ children }:PropsWithChildren){
 }
 
 export default function usePageTest1(){
-   return useContext(context)
+   useContext(context)
 }
