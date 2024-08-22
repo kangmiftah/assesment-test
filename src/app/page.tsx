@@ -17,7 +17,7 @@ export default function Home() {
          <div className="mt-2">
             <ul className=" list-decimal pl-5">
                <li> Buka page <Link href={"/test-1"} className=" underline cursor-pointer text-blue-500">Test-1</Link> </li>
-               <li> Ketika buka halaman tersebut kemungkinan ada terjadi error, perbaiki lah. jika tidak ada akan jadi bonus </li>
+               <li> Ketika buka halaman tersebut kemungkinan ada terjadi error, tolong perbaiki. jika tidak ada akan jadi bonus </li>
                <li> Buat kan fungsi untuk converter binary seperti dalam UI tersebut, dengan aturan <i>x</i> to decimal or decimal to <i>x</i> </li>
                <li> berikan validasi supaya tidak bisa memilih selain <i>x</i> to decimal or decimal to <i>x</i> </li>
                <li> pada <i> .client </i> hanya digunakan untuk render UI, tidak boleh ada fungsi atau logic </li>
