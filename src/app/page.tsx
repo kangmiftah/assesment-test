@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
    return (
       <div>
-         <h1 className="text-2xl font-bold">Petunjuk assesment test</h1>
+         <h1 className="text-2xl font-bold">Petunjuk Live Code</h1>
          <p>
             {" "}
             Ada beberapa task yang harus diselesaikan untuk memenuhi syarat
@@ -23,6 +23,15 @@ export default function Home() {
                <li> pada <i> .client </i> hanya digunakan untuk render UI, tidak boleh ada fungsi atau logic </li>
                <li> fungsi logic hanya pada <i> .provider </i> </li>
             </ul>
+         </div>
+         
+
+         <div className="mt-2 font-bold">
+            <sup>*boleh sambil search google, wajib sambil share screen</sup>
+         </div>
+
+         <div className="mt-2">
+            <h1 className="mt-2 "> Good Luck ^_^ </h1>
          </div>
       </div>
    );
