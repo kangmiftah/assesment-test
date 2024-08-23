@@ -10,7 +10,7 @@ export default function Home() {
             Ada beberapa task yang harus diselesaikan untuk memenuhi syarat
             test. berikut tasknya
             <sup className="text-xs bg-slate-100 border border-solid text-red-500">
-               Waktu hanya 45 menit maksimal
+               Waktu hanya 30 menit maksimal.
             </sup>
          </p>
 
